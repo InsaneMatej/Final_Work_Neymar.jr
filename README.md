@@ -1,13 +1,13 @@
 Neymar Jr. (O Mágico) - Moderní webová prezentace
 
 1. Úvod
-Živá ukázka webu: https://insanematej.github.io/Final_Work_Neymar.jr/
+
 Název projektu: Neymar Jr. - Webový profil
 Popis tématu: Komplexní, vysoce optimalizovaná webová prezentace věnovaná kariéře, statistikám a magii fotbalisty Neymara Jr. Projekt demonstruje pokročilé znalosti moderních webových technologií, přístupnosti, SEO a optimalizace výkonu.
 Autor: Matěj Jankech
-Živý web: [ZDE VLOŽ SVŮJ ODKAZ NA GITHUB PAGES, např. https://tvojejmeno.github.io/neymar-web]
+Živý web: https://insanematej.github.io/Final_Work_Neymar.jr/
 
-2. Použité technologie
+3. Použité technologie
 
 HTML5 (Plně sémantické značkování)
 
