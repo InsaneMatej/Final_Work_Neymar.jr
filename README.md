@@ -7,7 +7,7 @@ Popis tématu: Komplexní, vysoce optimalizovaná webová prezentace věnovaná 
 Autor: Matěj Jankech
 Živý web: https://insanematej.github.io/Final_Work_Neymar.jr/
 
-3. Použité technologie
+2. Použité technologie
 
 HTML5 (Plně sémantické značkování)
 
